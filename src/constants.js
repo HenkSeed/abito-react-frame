@@ -7,6 +7,7 @@ export const cardArray = [
     date: "10 июля 11:39",
     imgSrc: "/image/card_img.png",
     imgAlt: "Card",
+    description: "Продаю не спеша самокат в хорошем состоянии.",
   },
   {
     id: 1,
@@ -16,6 +17,7 @@ export const cardArray = [
     date: "10 июля 11:39",
     imgSrc: "/image/card_img.png",
     imgAlt: "Card",
+    description: "Продаю не спеша самокат в хорошем состоянии.",
   },
   {
     id: 2,
@@ -25,6 +27,7 @@ export const cardArray = [
     date: "10 июля 11:39",
     imgSrc: "/image/card_img.png",
     imgAlt: "Card",
+    description: "Продаю не спеша самокат в хорошем состоянии.",
   },
   {
     id: 3,
@@ -34,6 +37,7 @@ export const cardArray = [
     date: "10 июля 11:39",
     imgSrc: "/image/card_img.png",
     imgAlt: "Card",
+    description: "Продаю не спеша самокат в хорошем состоянии.",
   },
   {
     id: 4,
@@ -43,6 +47,7 @@ export const cardArray = [
     date: "10 июля 11:39",
     imgSrc: "/image/card_img.png",
     imgAlt: "Card",
+    description: "Продаю не спеша самокат в хорошем состоянии.",
   },
   {
     id: 5,
@@ -52,6 +57,7 @@ export const cardArray = [
     date: "10 июля 11:39",
     imgSrc: "/image/card_img.png",
     imgAlt: "Card",
+    description: "Продаю не спеша самокат в хорошем состоянии.",
   },
 ];
 
